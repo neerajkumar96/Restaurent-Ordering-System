@@ -16,12 +16,12 @@
 
             <div class="icons">
                 <img src="../assets/images/icon-2.png" alt="">
-                <h3>+84 123 123 123</h3>
+                <h3>+91-6393535481</h3>
             </div>
 
             <div class="icons">
                 <img src="../assets/images/icon-3.png" alt="">
-                <h3>02 Duong Khue, Cau Giay, Ha Noi, Viet Nam</h3>
+                <h3>Sultanpur Uttar Pradesh India</h3>
             </div>
 
         </div>
@@ -77,7 +77,7 @@
                 </div>
                 <div class="input-box">
                     <iframe class="map"
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3723.8938607918262!2d105.77118931493284!3d21.03693248599396!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313454b6336e0f73%3A0x713103931378d09e!2zMiBExrDGoW5nIEtodcOqLCBNYWkgROG7i2NoLCBD4bqndSBHaeG6pXksIEjDoCBO4buZaQ!5e0!3m2!1svi!2s!4v1637511438358!5m2!1svi!2s"
+                        src="https://www.google.com/maps/place/Sultanpur,+Uttar+Pradesh/@26.2589103,82.0243559,13z/data=!4m15!1m8!3m7!1s0x399a7ce4c1e7dccb:0xfef6562cafd06dd3!2sSultanpur,+Uttar+Pradesh!3b1!8m2!3d26.2585371!4d82.0659858!16zL20vMDc0cF9i!3m5!1s0x399a7ce4c1e7dccb:0xfef6562cafd06dd3!8m2!3d26.2585371!4d82.0659858!16zL20vMDc0cF9i?authuser=0&entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D"
                         loading="lazy"></iframe>
                 </div>
             </div>
@@ -154,16 +154,16 @@ export default {
                 this.errorObj.phoneErr.push('Entering phone number is required');
             }
             else {
-                if (!this.orderObj.phone.startsWith('84')) {
-                    this.errorObj.phoneErr.push('Phone numbers must start with 84');
+                if (!this.orderObj.phone.startsWith('91')) {
+                    this.errorObj.phoneErr.push('Phone numbers must start with 91');
                 }
 
                 if (!/[0-9]{10}/.test(this.orderObj.phone)) {
                     this.errorObj.phoneErr.push('Phone numbers can only contain numbers');
                 }
 
-                if (this.orderObj.phone.length != 11) {
-                    this.errorObj.phoneErr.push('Phone numbers must have exactly 11 digits');
+                if (this.orderObj.phone.length != 12) {
+                    this.errorObj.phoneErr.push('Phone numbers must have exactly 12 digits');
                 }
             }
 

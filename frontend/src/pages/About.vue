@@ -9,12 +9,12 @@
             <div class="about-content">
                 <img src="../assets/images/taco-chefcartoon.png" alt="">
                 <div class="about-content-text">
-                    <p>Our restaurant QFood was founded by Quang (a 5 Michelin stars chef) in 2002 in Vietnam. After
+                    <p>Our restaurant QFood was founded by Mohan Bharti. After
                         that, thanks to the support of our customers, our brand has been popularized globally in markets
-                        such as Australia, USA, Canada, UK, France, Germany, Belgium, Russia, China, Japan,
-                        Singapore, ... Mexican-style meals, the products that we deliver to customers are always the
+                        such as India,Australia, USA, Canada, UK, France, Germany, Belgium, Russia, China, Japan,
+                        Singapore, ... Asian-style meals, the products that we deliver to customers are always the
                         best quality products.</p>
-                    <p>Customers can eat at the restaurant to experience the Mexican atmosphere or can order food to be
+                    <p>Customers can eat at the restaurant to experience the Asian atmosphere or can order food to be
                         delivered to their homes.</p>
                 </div>
             </div>

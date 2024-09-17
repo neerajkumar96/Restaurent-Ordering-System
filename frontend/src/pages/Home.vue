@@ -3,8 +3,8 @@
         <div class="home-main">
             <div class="content">
                 <span>welcome foodies</span>
-                <h3>Original taste from Mexico 😋</h3>
-                <p>We guarantee to use fresh food with the best quality. Customers will enjoy Mexican cuisine with
+                <h3>Original taste from Aaia region 😋</h3>
+                <p>We guarantee to use fresh food with the best quality. Customers will enjoy Asian cuisine with
                     explosive, sophisticated flavors.</p>
                 <router-link @click="scrollToTop()" to="/menu" class="btn">order now</router-link>
             </div>
@@ -87,8 +87,7 @@
             <div class="content">
                 <span>why choose us?</span>
                 <h3 class="title">what's make our food delicious!</h3>
-                <p>Food to customers is always guaranteed of the best quality. Our dishes are made by chef Quang (a 5
-                    Michelin stars chef), promising to bring explosive, delicate, impressive flavors. Our delivery
+                <p>Food to customers is always guaranteed of the best quality. Our dishes are made by best chefs promising to bring explosive, delicate, impressive flavors. Our delivery
                     service is very professional, customers can enjoy the same quality at the restaurant</p>
                 <router-link @click="scrollToTop()" to="/about" class="btn">read more</router-link>
 

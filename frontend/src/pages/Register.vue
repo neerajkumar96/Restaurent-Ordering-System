@@ -181,11 +181,11 @@ export default {
             }
             else {
                 if (!this.registerObj.phone.startsWith('84')) {
-                    this.errorObj.phoneErr.push('Phone numbers must start with 84');
+                    this.errorObj.phoneErr.push('Phone numbers must start with 91');
                 }
 
-                if (this.registerObj.phone.length != 11) {
-                    this.errorObj.phoneErr.push('Phone numbers must have exactly 11 digits');
+                if (this.registerObj.phone.length != 12) {
+                    this.errorObj.phoneErr.push('Phone numbers must have exactly 12 digits');
                 }
 
                 if (!/[0-9]{11}/.test(this.registerObj.phone)) {

@@ -60,10 +60,10 @@
         <div class="bottom">
 
             <div class="share">
-                <a href="https://www.facebook.com/" class="fab fa-facebook-f"></a>
-                <a href="https://twitter.com/?lang=en" class="fab fa-twitter"></a>
-                <a href="https://www.instagram.com/" class="fab fa-instagram"></a>
-                <a href="https://www.pinterest.com/" class="fab fa-pinterest"></a>
+                <a href="#" class="fab fa-facebook-f"></a>
+                <a href="#" class="fab fa-twitter"></a>
+                <a href="#" class="fab fa-instagram"></a>
+                <a href="#" class="fab fa-pinterest"></a>
             </div>
 
         </div>
